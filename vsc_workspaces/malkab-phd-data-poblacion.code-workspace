@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../malkab-phd-data-cell_raw_data/docker"
+		}
+	],
+	"settings": {}
+}

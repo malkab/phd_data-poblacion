@@ -1,0 +1,33 @@
+#!/bin/bash
+
+# ---------------------------
+#
+# Common settings for all contexts.
+#
+# ---------------------------
+#
+# Prefix variables with MLKC_.
+#
+# ---------------------------
+
+# No network
+export MLKC_POBLACION_APP_NAME=
+
+# -----
+# PostGIS
+# -----
+export MLKC_POBLACION_PG_EXTERNAL_PORT=5632
+export MLKC_POBLACION_HOST=192.168.1.52
+
+
+
+export MLKC_POBLACION_APP_NAME=context_data
+
+# -----
+# dev cell_raw_data PostGIS
+# -----
+export MLKC_POBLACION_NETWORK=cell
+export MLKC_POBLACION_HOST=192.168.1.52
+export MLKC_POBLACION_PG_EXTERNAL_PORT=5632
+export MLKC_POBLACION_POSTGIS_USER=postgres
+export MLKC_POBLACION_POSTGIS_PASSWORD=postgres

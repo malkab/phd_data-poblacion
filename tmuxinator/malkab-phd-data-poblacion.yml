@@ -1,0 +1,16 @@
+name: malkab-phd-data-poblacion
+root: /home/git/malkab-phd-data/malkab-phd-data-poblacion/
+
+windows:
+  - malkab-phd-data-poblacion/src: >
+      clear ;
+      sleep 10 ;
+      . mlkcontext common ;
+      cd src
+
+  - psql: >
+      clear ;
+      sleep 1 ;
+      . mlkcontext common ;
+      cd docker ;
+      ./010-psql.sh

@@ -1,0 +1,27 @@
+{
+    "poblacion": {
+        "penc": 22,
+        "ue15": 0,
+        "otros": 0,
+        "total": 103,
+        "magreb": 0,
+        "penc_h": 7,
+        "penc_m": 9,
+        "afil_ss": 24,
+        "america": 0,
+        "edad65_": 16,
+        "hombres": 45,
+        "mujeres": 58,
+        "pencjub": 7,
+        "pencjyv": 0,
+        "edad0015": 8,
+        "edad1664": 66,
+        "afil_ss_a": 8,
+        "afil_ss_h": 8,
+        "afil_ss_m": 8,
+        "afil_ss_p": 0,
+        "espanyoles": 103,
+        "pencjub_mi": 760.0200000000,
+        "pencjyv_mi": 0.0000000000
+    }
+}
